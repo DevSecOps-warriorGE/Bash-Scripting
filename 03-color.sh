@@ -1,0 +1,1 @@
+echo -e "\e[31m I am printing Red color \e[0m"
