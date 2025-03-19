@@ -7,7 +7,7 @@ PROJECT=$2
 
 echo "the scriptName is $0"
 
-echo "Name of the team is $1"
+echo "Name of the team is $TEAM"
 
-echo "Name of the project is $2"
+echo "Name of the project is $PROJECT"
 
